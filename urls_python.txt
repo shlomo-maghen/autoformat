@@ -1,0 +1,12 @@
+https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do
+https://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python
+https://stackoverflow.com/questions/82831/how-do-i-check-whether-a-file-exists-using-python
+https://stackoverflow.com/questions/394809/does-python-have-a-ternary-conditional-operator
+https://stackoverflow.com/questions/419163/what-does-if-name-main-do
+https://stackoverflow.com/questions/89228/calling-an-external-command-in-python
+https://stackoverflow.com/questions/38987/how-to-merge-two-python-dictionaries-in-a-single-expression
+https://stackoverflow.com/questions/613183/sort-a-python-dictionary-by-value
+https://stackoverflow.com/questions/273192/how-can-i-create-a-directory-if-it-does-not-exist
+https://stackoverflow.com/questions/739654/how-to-make-a-chain-of-function-decorators
+https://stackoverflow.com/questions/53513/best-way-to-check-if-a-list-is-empty
+https://stackoverflow.com/questions/252703/append-vs-extend

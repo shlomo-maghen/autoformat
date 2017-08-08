@@ -1,0 +1,13 @@
+https://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array
+https://stackoverflow.com/questions/6841333/why-is-subtracting-these-two-times-in-1927-giving-a-strange-result
+https://stackoverflow.com/questions/40480/is-java-pass-by-reference-or-pass-by-value
+https://stackoverflow.com/questions/271526/avoiding-null-statements
+https://stackoverflow.com/questions/8710619/javas-compound-assignment-operators
+https://stackoverflow.com/questions/13375357/proper-use-cases-for-android-usermanager-isuseragoat
+https://stackoverflow.com/questions/309424/read-convert-an-inputstream-to-a-string
+https://stackoverflow.com/questions/40471/differences-between-hashmap-and-hashtable
+https://stackoverflow.com/questions/157944/create-arraylist-from-array
+https://stackoverflow.com/questions/8881291/why-is-char-preferred-over-string-for-passwords
+https://stackoverflow.com/questions/363681/how-do-i-generate-random-integers-within-a-specific-range-in-java
+https://stackoverflow.com/questions/1066589/iterate-through-a-hashmap
+https://stackoverflow.com/questions/6470651/creating-a-memory-leak-with-java
